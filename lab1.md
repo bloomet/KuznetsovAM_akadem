@@ -47,6 +47,8 @@
    ```bash
    echo "Welcome, $name"
    ```
+   ![image](https://github.com/user-attachments/assets/d4e281e1-30d6-49ff-8a5b-8b4d021c84d2)
+
    После чего запускаю свой скрипт и фиксирую результат 
 
    ![image](https://github.com/user-attachments/assets/948a219a-5cc4-48ae-aebd-818bb8413ab6)
