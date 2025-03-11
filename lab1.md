@@ -32,6 +32,7 @@
    echo "Welcome to ITMO University"
    ```
    После чего сохраняю файл и приступаю к его запуску, вписав в терпинал команду bash script.bash
+   
    На терминал выводиться текст из файла
 
    ![image](https://github.com/user-attachments/assets/7a689162-8815-431e-841a-094366001456)
